@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${env:HOME}/workspace/python-for-finance/env/bin/python"
+}
