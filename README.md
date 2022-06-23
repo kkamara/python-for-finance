@@ -5,7 +5,6 @@ This program will show you how to compute portfolio simple returns, get daily re
 ## Setup
 
 ```bash
-cp .env.example .env
 pip3 install virtualenv && \
   virtualenv env && \
   source env/bin/activate
